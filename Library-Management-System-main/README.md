@@ -1,2 +1,2 @@
-# CS-257
+# Library Management System
 course project
